@@ -1,0 +1,10 @@
+{
+  "CreditCardDetails":{
+    "Email":"randomEmail@Gmail.com",
+    "CardNumber":"4111111111111111",
+    "MM":"02",
+    "YY":"27",
+    "CVC": "123",
+    "ZipCode": "543211"
+  }
+}
